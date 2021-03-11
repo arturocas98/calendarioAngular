@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "CalendarioAngular"
+  "defaultProject": "CalendarioAngular",
+  "cli": {
+    "analytics": false
+  }
 }
